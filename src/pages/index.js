@@ -10,8 +10,6 @@ export default function Home() {
         <link rel="icon" href="https://i.ibb.co/qDcspxb/fav.png" />
       </Head>
 
-      <h1>Hello world!</h1>
-
       {/* Header */}
       <Header />
     </div>
