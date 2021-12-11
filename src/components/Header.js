@@ -21,12 +21,7 @@ const Header = () => {
         <HeaderItem title="SEARCH" Icon={SearchIcon} />
         <HeaderItem title="ACCOUNT" Icon={UserIcon} />
       </div>
-      <Image
-        className="object-contain"
-        src="/assets/images/logo.png"
-        width={200}
-        height={100}
-      />
+
     </header>
   );
 };
