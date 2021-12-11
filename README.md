@@ -3,6 +3,8 @@ Responsive Movie Streaming Project built with react
 ![]()
 
 > This is a Next.js project bootstrapped with create-next-app.
+
+
 <!-- 
 ## Features ✨
 - You can surf around the site to find details about your favourite movies.
@@ -24,4 +26,5 @@ Responsive Movie Streaming Project built with react
 - css grid
 - jit compiler
 
-
+## Preview 📸
+![alt text](https://github.com/0xRitesh/moviefolio/blob/v1.0.0/asset/screen0.png?raw=true)
